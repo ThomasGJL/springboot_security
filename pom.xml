@@ -11,7 +11,7 @@
     <groupId>com.example</groupId>
     <artifactId>springboot_security</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>securityDemo</name>
+    <name>springboot_security</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
